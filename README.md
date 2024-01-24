@@ -12,8 +12,8 @@
    * Analysis Tools
      <br/> Python(libraries such as NumPy, Pandas, seaborn, matplotlib, SciPy and Scikit-learn)
    * Data
-     Seoul Bike (http://data.seoul.go.kr/dataList/OA-14994/F/1/datasetView.do)
-     Weather (https://data.kma.go.kr/data/grnd/selectAwsRltmList.do)
+     <br\> Seoul Bike (https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do)
+     <br\> Weather (https://data.kma.go.kr/data/grnd/selectAwsRltmList.do)
    * Analysis
      - Processed data such as handling missing values with KNN Imputer and one hot encoding for categorical variable
      - Select a model and hyperparameter set with the most popular '대여소' among lr, ridge, lasso, elastic, LassoLars, SGDRegressor, lm.SGDRegressor, and Perceptron based on MAE
