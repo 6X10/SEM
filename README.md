@@ -18,7 +18,7 @@
      - Processed data such as handling missing values with KNN Imputer and one hot encoding for categorical variable
      - Select a model and hyperparameter set with the most popular '대여소' among lr, ridge, lasso, elastic, LassoLars, SGDRegressor, lm.SGDRegressor, and Perceptron based on MAE
      - Checked average error for every '대여소' with best prediction model
-     - 
+       
 ### 4. Result of Analysis
  Best model is elastic with alpha=01 and average on prediction is one bicycle.
 
